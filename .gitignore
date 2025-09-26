@@ -1,0 +1,10 @@
+# Ignore specific files
+
+
+# Ignore all files with a certain extension
+*.log
+*.temp
+
+# Ignore an entire folder
+/PushToGithub/
+/Private/
